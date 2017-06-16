@@ -1,0 +1,27 @@
+table {
+  display: inline-block;
+  height: 60px;
+  width: 60px;
+  border: 5px solid Black;
+  background-color: Orange;
+  border-radius: 10px;
+  clear: left;
+  position: relative;
+  margin: auto;
+}
+
+div {
+  top: 200px;
+  width: 780px;
+  position: relative;
+  left: 500px;
+}
+
+h1 {
+  top: 50px;
+  clear: right;
+  left: 750px;
+  position: relative;
+  font-style: oblique;
+  font-family: 'Arial';
+}
